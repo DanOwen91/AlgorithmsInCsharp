@@ -1,12 +1,18 @@
 ﻿using System;
 
-namespace Alogrithmns_in_C_
+namespace AlgorithmsInCsharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Excercising a simple linkedList
+            SimpleLinkedList linkedList = new SimpleLinkedList();
+            linkedList.AddToFirst("First");
+            linkedList.AddToLast("Middle");
+            linkedList.AddToLast("Last");
+            linkedList.PrintOutAllNodeValues();
+
         }
     }
 }
