@@ -1,0 +1,9 @@
+/home/dan/Projects/AlgorithmsInCsharp/bin/Debug/netcoreapp1.1/AlgorithmsInCsharp.deps.json
+/home/dan/Projects/AlgorithmsInCsharp/bin/Debug/netcoreapp1.1/AlgorithmsInCsharp.runtimeconfig.json
+/home/dan/Projects/AlgorithmsInCsharp/bin/Debug/netcoreapp1.1/AlgorithmsInCsharp.runtimeconfig.dev.json
+/home/dan/Projects/AlgorithmsInCsharp/bin/Debug/netcoreapp1.1/AlgorithmsInCsharp.dll
+/home/dan/Projects/AlgorithmsInCsharp/bin/Debug/netcoreapp1.1/AlgorithmsInCsharp.pdb
+/home/dan/Projects/AlgorithmsInCsharp/obj/Debug/netcoreapp1.1/AlgorithmsInCsharp.csprojResolveAssemblyReference.cache
+/home/dan/Projects/AlgorithmsInCsharp/obj/Debug/netcoreapp1.1/AlgorithmsInCsharp.AssemblyInfo.cs
+/home/dan/Projects/AlgorithmsInCsharp/obj/Debug/netcoreapp1.1/AlgorithmsInCsharp.dll
+/home/dan/Projects/AlgorithmsInCsharp/obj/Debug/netcoreapp1.1/AlgorithmsInCsharp.pdb
