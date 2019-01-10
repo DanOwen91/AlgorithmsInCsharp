@@ -12,6 +12,9 @@ namespace AlgorithmsInCsharp
         void AddToLast(object value);
         //Remove all entries of a value from the list
         void RemoveValue(object value);
+        //Print all the values in the list
+        void PrintOutAllNodeValues();
+
 
     }
 }

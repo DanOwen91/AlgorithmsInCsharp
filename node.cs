@@ -9,5 +9,7 @@ namespace AlgorithmsInCsharp
         internal object element;
         //The next node in the list
         internal node next = null;     
+        //The previous node in the list allowing for a doubly linkedlist
+        internal node previous = null;
     }
 }
